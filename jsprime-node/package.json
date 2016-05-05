@@ -1,0 +1,12 @@
+{
+  "name": "jsprime",
+  "version": "0.0.1",
+  "description": "JSPrime Node impl",
+  "dependencies": {
+    "node-dir": "0.1.11",
+    "esprima": "1.1.1",
+    "rewire": "2.5.1",
+    "events": "1.1.0",
+    "util": "0.10.3" 
+  }
+}
